@@ -1,0 +1,43 @@
+body {
+	background-image: linear-gradient(90deg, #00BFFF, white, #00BFFF);
+	font-family: "Comic Sans";
+}
+
+h1 {
+	font-family: "Comic Sans";
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+h3 {
+	font-family: "Comic Sans";
+	color: 	white;
+	text-align: center;
+	background-color: black;
+}
+
+.button {
+	background: white;
+	margin-right: 29.5pc;
+	margin-left: 29.5pc;
+	padding: 10px 100px;
+	text-decoration: none;
+	font-family: "Arial";
+	color: black;
+	width: 260px;
+	text-align: center;
+	border-radius: 1pc;
+	margin-top: 10px;
+}
+
+.button:hover {
+	background-color: #87CEFA;
+	color: white;
+}
+
+.arara {
+	width: 35pc;
+	margin-left: 20pc;
+	margin-right: 20pc;
+}
